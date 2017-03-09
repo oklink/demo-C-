@@ -1,0 +1,7 @@
+C:\Users\Jimmy\Documents\Visual Studio 2010\Projects\demo-oklink\demo-net\bin\Debug\demo-oklink.exe
+C:\Users\Jimmy\Documents\Visual Studio 2010\Projects\demo-oklink\demo-net\bin\Debug\demo-oklink.pdb
+C:\Users\Jimmy\Documents\Visual Studio 2010\Projects\demo-oklink\demo-net\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jimmy\Documents\Visual Studio 2010\Projects\demo-oklink\demo-net\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Jimmy\Documents\Visual Studio 2010\Projects\demo-oklink\demo-net\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jimmy\Documents\Visual Studio 2010\Projects\demo-oklink\demo-net\obj\x86\Debug\demo-oklink.exe
+C:\Users\Jimmy\Documents\Visual Studio 2010\Projects\demo-oklink\demo-net\obj\x86\Debug\demo-oklink.pdb
