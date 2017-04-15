@@ -29,7 +29,7 @@ namespace com.oklink.httpbase
         }
         private string CreateToken(string message, string secret)
         {
-            var encoding = new System.Text.ASCIIEncoding();
+            var encoding = new System.Text.UTF8Encoding();
             byte[] keyByte = encoding.GetBytes(secret);
             byte[] messageBytes = encoding.GetBytes(message);
             using (var hmacsha256 = new HMACSHA256(keyByte))
