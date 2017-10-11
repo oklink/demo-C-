@@ -45,6 +45,7 @@ namespace com.oklink.rest
             //detail_info.Add("beneficiary", beneficiary);
             //detail_info.Add("remitter",remitter);
             //param.Add("country_id", 143);
+            //param.Add("remit_fee",0);
             //param.Add("pay_mode", 2);
             //param.Add("transfer_network",1);
             //param.Add("receive_amount", 100);
